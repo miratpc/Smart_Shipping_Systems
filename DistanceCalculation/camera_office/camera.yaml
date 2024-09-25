@@ -1,0 +1,7 @@
+camera:
+  cal_path: C:\Users\burak\OneDrive\Belgeler\GitHub\Yolov8_car_detection\DistanceCalculation\camera_office\calib.npz
+  img_width: 1280
+  img_height: 720
+  sensor_diagonal: 9.4
+  aspect_ratio_x: 16
+  aspect_ratio_y: 9
