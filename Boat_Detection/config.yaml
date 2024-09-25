@@ -1,0 +1,8 @@
+path : C:\Users\burak\OneDrive\Belgeler\GitHub\Yolov8_car_detection\Boat_Detection\Datasets
+train: train\images
+val: validation\images
+test: test\images
+
+
+names: 
+  0: boat
